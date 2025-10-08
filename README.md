@@ -7,7 +7,7 @@
 ** Cloning this repo: `git clone https://github.com/bikilaalemu/web_programming_sec_a_2018.git` 
 ## Alternatively , you can download the code
 * This option doesn't require you to download additional software
-* Click the `code' option , !(ic1.png) [ with blue background] 
-* Click `download zip` option, !(ic2.png)
+* Click the `code' option , ![with blue background](ic1.png)  
+* Click ![`download zip` option](ic2.png)
 ### Now you are all set. 
 ### Continue learning, never stop doing code. 
