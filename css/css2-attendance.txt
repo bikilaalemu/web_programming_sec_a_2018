@@ -1,24 +1,24 @@
 James
-*Nuhamin
-*Tsega Wendimu
+Nuhamin
+Tsega Wendimu
 Yeabsira
 Koket
 Zebenay
-Abenezer
+*Abenezer
 Saron
 Tekeba
 Abdurahman
 Zelalem
-*Amanuel
-*Dagim 
+Amanuel
+Dagim 
 Fikadu
 Getinet
 Haile
-Yadessa
+*Yadessa
 Solan
 Naod
 Frew
-Netsanet
+*Netsanet
 Muluken
 Ruhama
 Samrawit
@@ -26,15 +26,15 @@ Bona
 Ermiyas
 Meles
 Esubalew
-*Nigatu
+Nigatu
 Gude
-Mohammed
+*Mohammed
 Ali
 Zekariya
-*Nahom
-Tsegab -Rep **Sick
+Nahom
+Tsegab 
 Samuel
-Ephrem - permission
+Ephrem
 Liya
 Bereket
 Esubalew Sh
@@ -47,5 +47,6 @@ Mekdelawit
 Haymanot
 Mekdes
 Medhanit
-Kalkidan
+*Kalkidan- Hazen
 Mahider
+
